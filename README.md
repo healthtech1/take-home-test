@@ -17,7 +17,7 @@ Some additional notes on the system
 Some notes on this take home
 - We expect you to add some basic tests to your code
 - We allow/expect you to use AI to aid you in this task but please do not just ask Claude to do the whole thing for you
-- You are free to pick another server techology (e.g. Nest JS) if you wish and even pick another language though please check with us first on language.
+- You are free to pick another server technology (e.g. Nest JS) if you wish and even pick another language though please check with us first on language.
 
 How to submit
 - Please send an email to laurence@healthtech1.uk with a link to your repository and a link to a 5 minute (max) loom which explains your code and some of your design decisions
