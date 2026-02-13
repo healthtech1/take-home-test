@@ -4,7 +4,7 @@ const app = express();
 
 app.use(express.json());
 
-app.post("/forms", (req: Request, res: Response) => {
+app.post("/ingest", (req: Request, res: Response) => {
 	res.json({ message: "Ingesting form data" });
 });
 
